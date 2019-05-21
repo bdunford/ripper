@@ -1,0 +1,2 @@
+#!/bin/bash
+find ./ripper/ -name "*.pyc" -delete

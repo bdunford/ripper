@@ -1,0 +1,2 @@
+import ripper
+ripper.rip()
